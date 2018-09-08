@@ -10,5 +10,5 @@
 
 ##Install Required Tools
 - Install [node](https://nodejs.org/en/download/)
-- Install [yarn]  
+- Install [yarn](https://yarnpkg.com/en/docs/install)
 
